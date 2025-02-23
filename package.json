@@ -1,15 +1,15 @@
 {
   "name": "indexsom",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Julien Grelet",
+  "license": "MIT",
+  "description": "IndexSOM is a tool to annotate the DOM of a web page with semantic annotations.",
   "devDependencies": {
     "@types/node": "^22.13.5",
     "ts-node": "^10.9.2",
