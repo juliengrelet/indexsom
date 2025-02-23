@@ -1,0 +1,1 @@
+export { SOMAnnotator } from "@/core/SOMAnnotator";
